@@ -25,7 +25,7 @@ npm install
 npm start
 
 
-📁 Folder Structure
+## 📁 Folder Structure
 /mytodo
   ├── /public
   ├── /src
