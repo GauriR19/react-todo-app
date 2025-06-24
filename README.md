@@ -2,7 +2,8 @@
 
 A clean and fully styled React-based Todo List App with routing, localStorage support, checkbox functionality, and an About section.
 
-![App Screenshot](./screenshot.png)
+![Todo_List_SS_1](https://github.com/user-attachments/assets/1d38db07-d06b-42f4-8d7a-0aae2c67bcf9)
+
 
 ## 🔧 Features
 
@@ -23,14 +24,3 @@ A clean and fully styled React-based Todo List App with routing, localStorage su
 ```bash
 npm install
 npm start
-
-
-## 📁 Folder Structure
-/mytodo
-  ├── /public
-  ├── /src
-  │   ├── /MyComponents
-  │   ├── App.js
-  │   └── index.js
-  ├── package.json
-  └── README.md
